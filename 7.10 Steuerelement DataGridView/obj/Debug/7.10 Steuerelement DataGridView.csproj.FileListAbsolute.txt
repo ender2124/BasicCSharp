@@ -1,0 +1,10 @@
+C:\Users\92000346\Documents\Documentos\Trainings\BasicCSharp\VStudioCSharp\7.10 Steuerelement DataGridView\bin\Debug\7.10 Steuerelement DataGridView.exe.config
+C:\Users\92000346\Documents\Documentos\Trainings\BasicCSharp\VStudioCSharp\7.10 Steuerelement DataGridView\bin\Debug\7.10 Steuerelement DataGridView.exe
+C:\Users\92000346\Documents\Documentos\Trainings\BasicCSharp\VStudioCSharp\7.10 Steuerelement DataGridView\bin\Debug\7.10 Steuerelement DataGridView.pdb
+C:\Users\92000346\Documents\Documentos\Trainings\BasicCSharp\VStudioCSharp\7.10 Steuerelement DataGridView\obj\Debug\7.10 Steuerelement DataGridView.csproj.AssemblyReference.cache
+C:\Users\92000346\Documents\Documentos\Trainings\BasicCSharp\VStudioCSharp\7.10 Steuerelement DataGridView\obj\Debug\_7._10_Steuerelement_DataGridView.Form1.resources
+C:\Users\92000346\Documents\Documentos\Trainings\BasicCSharp\VStudioCSharp\7.10 Steuerelement DataGridView\obj\Debug\_7._10_Steuerelement_DataGridView.Properties.Resources.resources
+C:\Users\92000346\Documents\Documentos\Trainings\BasicCSharp\VStudioCSharp\7.10 Steuerelement DataGridView\obj\Debug\7.10 Steuerelement DataGridView.csproj.GenerateResource.cache
+C:\Users\92000346\Documents\Documentos\Trainings\BasicCSharp\VStudioCSharp\7.10 Steuerelement DataGridView\obj\Debug\7.10 Steuerelement DataGridView.csproj.CoreCompileInputs.cache
+C:\Users\92000346\Documents\Documentos\Trainings\BasicCSharp\VStudioCSharp\7.10 Steuerelement DataGridView\obj\Debug\7.10 Steuerelement DataGridView.exe
+C:\Users\92000346\Documents\Documentos\Trainings\BasicCSharp\VStudioCSharp\7.10 Steuerelement DataGridView\obj\Debug\7.10 Steuerelement DataGridView.pdb
